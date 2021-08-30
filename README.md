@@ -2,6 +2,7 @@
 # Wcat
 
 - This project is created by javascript and node.js . It is used to format your files using a single script.
+- It is a core node.js CLI(Command line Interface) project.
 
 ## Some Commands and their Functions
 
